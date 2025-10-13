@@ -14,7 +14,7 @@ v.3a - added adjustment also for seconds, show temperature without delay
 v.3b - changed DS18B20 request and set the resolution 
 v.4 - switch big fonts for clock with temperature 
 v.5 - added thermostat function
-v.5a - added adjust for temperature an hysteresis plusEEPROM store
+v.5a - added adjust for temperature an hysteresis plus EEPROM store
 */
 
 // Use: Pressing and holding the button will enter the clock set mode (on release of the button). Clock is set using the rotary encoder. 
@@ -739,14 +739,16 @@ int sette () {
     }
     te = te1/2.;
     lcd.print (te,1);
-    lcd.print(String(char(223)));
+ //   lcd.print(String(char(223)));
+    lcd.write(char(223));
     lcd.print("C"); 
 
     dete = dete1/10.;
     lcd.setCursor (0,3);
     lcd.print ("Hysteresis: ");
     lcd.print (dete,1);
-    lcd.print(String(char(223)));
+ //   lcd.print(String(char(223)));
+    lcd.write(char(223));
     lcd.print("C");       
     sette();
 }
@@ -780,13 +782,15 @@ int setdete () {
     }
     dete = dete1/10.;
     lcd.print (dete,1);
-    lcd.print(String(char(223)));
+ //   lcd.print(String(char(223)));
+    lcd.write(char(223));
     lcd.print("C");
     te = te1/2.;
     lcd.setCursor (0,3);
     lcd.print ("Temperature: ");
     lcd.print (te,1);
-    lcd.print(String(char(223)));
+ //   lcd.print(String(char(223)));
+    lcd.write(char(223));
     lcd.print("C");          
     setdete();
 }
@@ -1027,7 +1031,8 @@ void readds()
         //  lcd.print("][");
           lcd.print("+");
           lcd.print(dete,1);
-          lcd.print(String(char(223)));
+       //   lcd.print(String(char(223)));
+          lcd.write(char(223);
           lcd.print("C");
           lcd.print("]");
           
@@ -1045,7 +1050,8 @@ void readds()
           lcd.print(" ");
         }
           lcd.print(tempC,1);
-        lcd.print(String(char(223)));
+      //  lcd.print(String(char(223)));
+        lcd.write(char(223);
         lcd.print("C");
         }
         else
@@ -1087,10 +1093,12 @@ void readds()
         //  lcd.print("][");
           lcd.print("+");
           lcd.print(dete,1);
-          lcd.print(String(char(223)));
+        //  lcd.print(String(char(223)));
+          lcd.write(char(223);
           lcd.print("C");
           lcd.print("]");
         }
        }
      tpcitire = millis(); 
   }
+
