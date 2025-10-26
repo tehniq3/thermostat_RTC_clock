@@ -14,7 +14,7 @@ v.3a - added adjustment also for seconds, show temperature without delay
 v.3b - changed DS18B20 request and set the resolution 
 v.4 - switch big fonts for clock with temperature 
 v.5 - added thermostat function
-v.5a - added adjust for temperature an hysteresis plus EEPROM store
+v.5a - added adjust for temperature and hysteresis plus EEPROM store
 */
 
 // Use: Pressing and holding the button will enter the clock set mode (on release of the button). Clock is set using the rotary encoder. 
@@ -1101,4 +1101,5 @@ void readds()
        }
      tpcitire = millis(); 
   }
+
 
