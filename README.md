@@ -8,7 +8,7 @@ my article: https://nicuflorica.blogspot.com/2025/10/termostat-reglabil-cu-ceas-
 ![ok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-wkP4QfOheNll216kRgygCQ9MI0LPDhR7SOHvW-VHkaqnrikHykwJb9ujsQbGw_L6MzP4NmrBSdF170xYqx82FIsPtCXkYEklOfewi7XMSrnU_E-QGhdft-MnXU6CZES6rbUzFZtA3Z8yJAuknVYgnXOsWuRFqi7bAmwaG-P-FWN3VEC1XWBfDVorR2OG/w93-h200/termostat_02.heic)
 ![okok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFJWEPwKLBt5XTRZpLMSw56cwrICNMpUURLqNE3DbP4NLFpGejMWcezXLvKHDHd8CsgyMzIGyOAlwBgkFsRGFQeoM534sl3sdIU-ynJHs1trUJcILbSjWvBKs_luYieGbETtk2j_QHVTsU80zf66INsWXIeLcZnEssfm1jxj7cWNe1LKM_k5fTK_QU3_6b/w93-h200/termostat_05.heic)
 
-2nd artcile: https://nicuflorica.blogspot.com/2025/10/termostat-reglabil-cu-ceas-rtc-si_26.html
+2nd article: https://nicuflorica.blogspot.com/2025/10/termostat-reglabil-cu-ceas-rtc-si_26.html
 
 ![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-YOfIGA6pg3i2s3EoYGSTk5AgzKIz1kFMcNrDN8wGI5RmrCNkPCE9FE4Qyh6QqroH4u-S6NL4btwD7S0X5kbmYzsqEyYtLsl4NRgHBI3bdsrj2Fz-HfZd-4KMVpEXFsXV8toKM9qSNnpG3Gd09djM7-26vw8iOjtWjwzV9y0_JuDgYSZnBaTYOBfvbmiz/w400-h144/Thermostat_RTC_clock_SHT31_i2cLCD2004_encoder_sch.png)
 ![ok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Uy8D6MnMZqpGPF3QKDAQUPzLfOMBJyoHuiAadS2IQQf6aDtqcY5ykIBxsHuCD66nr-eWOUn2jvYfluqv-rQczH5qC6vi3T9lYnG5xA8zdD6rDXmmwd7B_QNW1N9C1fNlpSBaXsAngsa_XO16ssj7mYYD4vIt3HuEGLrEMUZ7Ehde8X4002w4i6lNPxbC/w93-h200/termometru1.heic)
